@@ -9,7 +9,7 @@ namespace Lessson5
 {
 
 
-    delegate string myDel(int _number);   //делегаты
+    delegate string myDel(int _number);   //делегаты   - в ни х мы можем складывать бесконечное количество методов
     internal class Program
     {
         static string numName(int _num)
